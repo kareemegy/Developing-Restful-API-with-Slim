@@ -1,0 +1,16 @@
+{
+  "name": "kw/developing-restful-api-with-slim",
+  "description": "resutful_api_App",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "karim",
+      "email": "kokekarim@yahoo.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "4.0.0",
+    "slim/psr7": "^0.5.0"
+  }
+}
