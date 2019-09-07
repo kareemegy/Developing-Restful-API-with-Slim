@@ -11,6 +11,7 @@
   ],
   "require": {
     "slim/slim": "4.0.0",
-    "slim/psr7": "^0.5.0"
+    "slim/psr7": "^0.5.0",
+    "selective/basepath": "^0.1.1"
   }
 }
